@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5f4947b11e5ab34391e5c0ceee0366c, type: 3}
+  m_Name: _MenuListSO
+  m_EditorClassIdentifier: 
+  mainDishSOList:
+  - {fileID: 11400000, guid: 1415ca22cc61ca74e93f3fb1a88071be, type: 2}
+  - {fileID: 11400000, guid: 9f24dbb6debfb3b41aa0760693633895, type: 2}
+  - {fileID: 11400000, guid: 40e28856a25732c4caca3194ed9ecc04, type: 2}
+  - {fileID: 11400000, guid: 42160c2b460d29b4e8bec7db1e92a030, type: 2}
